@@ -70,7 +70,7 @@ DBRX - A版本：**22.07.22.1A**
 |<span style="color:blue">普通</span>|A4|重生點北|-120 64 -265|2022年5月31日|鄰近於重生點保護區的北側|一堆樹林|
 |<span style="color:blue">普通</span>|A2|重生點西|-245 65 20|2022年2月3日，5月27日整修、29日重新開放|鄰近於重生點保護區的西側|山丘|
 |<span style="color:lightgray">不開放</span>|A0|倉庫|-217 70 136|2022年1月23日|存放著鐵路建設的材料|居住處(我的)|
-|<span style="color:darkviolet">快速</span>|A1|重生點西|-175 68 125|2022年2月3日|鄰近於重生點保護區的南側|第一代自由廣場的遺址|
+|<span style="color:darkviolet">快速</span>|A1|重生點南|-175 68 125|2022年2月3日|鄰近於重生點保護區的南側|第一代自由廣場的遺址|
 |<span style="color:blue">普通</span>|A3|新綠蔭森林|-60 82 345|2022年2月4日~3月26日 2022年4月2日重新啟用|鄰近玩家 ChenDaoChan(現Kirito721) 在舊伺服器車站的名字「綠蔭森林」得出|原先矗立於自由廣場的7-11、Hi_Whiteeagle的植樹場|
 |<span style="color:mediumseagreen">AB線路轉乘站</span><br><span style="color:darkviolet">快速</span>|A5|村莊|-55 82 670|分為三期建設<br>第一期建設：2022年5月23日完工<br>第二期建設：2022年7月15日完工<br>第四期建設：約於2023年2月完工|鄰近於人口趨近於0的村莊|眾多玩家的住所和設備|
 |<span style="color:blue">普通</span>|A9|Z2K島|-252 82 2070|2022年7月2日|Z軸2000格紀念站|島上有未知玩家的住所和設備|
